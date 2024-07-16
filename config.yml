@@ -1,0 +1,5 @@
+db: "postgres://postgres:secret@localhost:5432/gopgtest?sslmode=disable"
+# redis: "localhost:6379"
+# fb_oauth: 
+#   client_id: "d065a371-67c4-460b-adcd-fecd019a0ec8"
+#   client_secret: "a50c7534-7a07-4b7d-81e3-30324d45d00f"
